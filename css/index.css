@@ -74,11 +74,11 @@ header a:hover{
 
 /* Commentaries */
 #comm{
-  background-color: #AED6F1;
+  background-color: #C8ADC0;
   text-align: center;
 }
 #comm h2{
-  background-color: #d4e6f7;
+  background-color: #EDD3C4;
 }
 #comm h3{
   padding-left: 10%;
@@ -87,11 +87,11 @@ header a:hover{
 
 /* About us */
 #about{
-  background-color: #AED6F1;
+  background-color: #C8ADC0;
   text-align: center;
 }
 #about h2{
-  background-color: #d4e6f7;
+  background-color: #EDD3C4;
 }
 #about h3{
   padding-left: 10%;
@@ -100,11 +100,11 @@ header a:hover{
 
 /* Public Speaking */
 #public-speaking{
-  background-color: #AED6F1;
+  background-color: #C8ADC0;
   text-align: center;
 }
 #public-speaking h2{
-  background-color: #d4e6f7;
+  background-color: #EDD3C4;
 }
 #public-speaking h3{
   padding-left: 10%;
@@ -113,11 +113,11 @@ header a:hover{
 
 /* Contact Us */
 #contactus{
-  background-color: #AED6F1;
+  background-color: #C8ADC0;
   text-align: center;
 }
 #contactus h2{
-  background-color: #d4e6f7;
+  background-color: #EDD3C4;
 }
 #contactus h3{
   padding-left: 10%;
@@ -125,10 +125,10 @@ header a:hover{
 }
 /*footer*/
 footer{
-  background-color: #AED6F1;
+  background-color: #C8ADC0;
   padding-top: 10px;
   min-height: 60px;
-  border-top: #d4e6f7 3px solid;
+  border-top: #4909B2 3px solid;
   width: 100%;
 }
 footer p{
